@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TestWeekThree</string>
-    <string name="str_txt">Welcome</string>
-    <string name="str_btn">Enter</string>
+    <string name="str_txt">Bienvenido</string>
+    <string name="str_btn">Entrar</string>
 </resources>
